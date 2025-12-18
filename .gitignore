@@ -1,0 +1,4 @@
+demo
+
+**/env/env.* 
+!env.example 
